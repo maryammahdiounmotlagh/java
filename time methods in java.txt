@@ -1,0 +1,19 @@
+/*LocalDateTime.now();
+		ZonedDateTime.now();
+		System.out.println(ZonedDateTime.now().format(DateTimeFormatter.RFC_1123_DATE_TIME));*/
+		
+		/*java.util.Date date=Calendar.getInstance().getTime();
+		System.out.println("you Entered at:" + date);*/
+		
+		/*SimpleDateFormat sdf = new SimpleDateFormat("yyyy:MM:dd::HH:mm:ss");
+		System.out.println(sdf.format(System.currentTimeMillis()));*/
+		
+		/*LocalTime localTime = LocalTime.now();
+		System.out.println(localTime);*/
+		
+		/*DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm:ss");
+		LocalDateTime now = LocalDateTime.now();
+		System.out.println(dtf.format(now)); //2016/11/16 12:08:43*/
+		
+		/*java.util.Date currentTime = Calendar.getInstance().getTime();
+		System.out.println(currentTime);*/
